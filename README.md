@@ -1,6 +1,6 @@
 # LeetCode Journey
 
 ## Easys: 6
-## Mediums: 1
+## Mediums: 2
 ## Hards: 
 
